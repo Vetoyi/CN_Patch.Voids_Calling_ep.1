@@ -4,7 +4,7 @@
 <p align="center">Steam正版汉化补丁，请支持正版游戏！</p>
 <p align="center">补丁后续更新请关注此Github库，该说明页也会同补丁一并更新</p>
 <p align="center">相关声明：本补丁仅供交流学习使用，请勿用于商业目的，违者后果自负，本人概不负责。</p>
-<p align="center">[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**</p>
+
 ***
 
 # :o:前言
@@ -49,7 +49,7 @@
 <br>补丁版本：0.25
 <br>适配Steam版本：1.0.45(最新：2021.11.18)
 <br>解压码：vetoy
-<br>下载地址：[百度网盘(提取码xp9q)](https://pan.baidu.com/s/1p8Fv8O-s9g14ggziuUSFHQ)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1/releases)
+<br>下载地址：[百度网盘(提取码xp9q)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1#o必读bangbang如何使用补丁)”
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
