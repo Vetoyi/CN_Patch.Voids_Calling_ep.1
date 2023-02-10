@@ -48,7 +48,7 @@
 **更新日期：2022.01.23
 <br>补丁版本：0.25
 <br>适配Steam版本：1.0.45
-<br>适配Depots Update：2021.11.18(18 November 2021 – 10:13:09 UTC)
+<br>适配Depots Update：2021.11.18 (18 November 2021 – 10:13:09 UTC)
 <br>检查Depots Update：[[Game]ep.1](https://steamdb.info/depot/1212021/manifests/)
 <br>解压密码：vetoy
 <br>补丁下载：[百度网盘(提取码xp9q)](https://pan.baidu.com/s/1p8Fv8O-s9g14ggziuUSFHQ)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1/releases)
